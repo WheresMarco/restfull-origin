@@ -1,8 +1,8 @@
 <?php
 /*
   Plugin Name: REST Allow Origin
-  Plugin URI: https://oddalice.se
-  Description: Adds Access-Control-Allow-Origin: * to all REST endpoints.
+  Plugin URI: http://oddalice.se
+  Description: Adds <em>Access-Control-Allow-Origin: *</em> to all REST endpoints.
   Version: 1.0
   Author: Odd Alice
   Author URI: http://oddalice.com
