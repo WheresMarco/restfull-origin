@@ -1,6 +1,6 @@
 === REST ALLOW ORIGIN ===
 Contributors: oddalice, wheresmarco
-Tags: train, timetable, sj, sweden, trafiklab, trafikverket
+Tags: rest, api, allow, origin, cors
 Requires at least: 4.7.0
 Tested up to: 4.7
 Stable tag: 1.0
