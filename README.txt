@@ -1,4 +1,4 @@
-=== TuffTuffTime ===
+=== REST ALLOW ORIGIN ===
 Contributors: oddalice, wheresmarco
 Tags: train, timetable, sj, sweden, trafiklab, trafikverket
 Requires at least: 4.7.0
