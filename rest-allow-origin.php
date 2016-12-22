@@ -6,7 +6,7 @@
   Version: 1.0
   Author: Odd Alice
   Author URI: http://oddalice.com
-  Text Domain: oa-rest-allow-origin
+  Text Domain: rest-allow-origin
   Domain Path: /languages
 */
 
