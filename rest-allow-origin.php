@@ -10,6 +10,8 @@
   Domain Path: /languages
 */
 
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 add_action( 'rest_api_init', function() {
   // Remove the old cors headers
   remove_filter( 'rest_pre_serve_request', 'rest_send_cors_headers' );
