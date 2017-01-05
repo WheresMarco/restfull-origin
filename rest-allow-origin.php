@@ -25,3 +25,5 @@ add_action( 'rest_api_init', function() {
     return $value;
   });
 }, 15 );
+
+?>
