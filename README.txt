@@ -1,8 +1,8 @@
-=== REST ALLOW ORIGIN ===
-Contributors: oddalice, wheresmarco
+=== RESTFULL ORIGIN ===
+Contributors: wheresmarco
 Tags: rest, api, allow, origin, cors
 Requires at least: 4.7.0
-Tested up to: 4.7
+Tested up to: 4.9.7
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -18,12 +18,12 @@ This plugin overwrites the 'Access-Control-Allow-Origin' for the WordPress REST 
 = From your WordPress dashboard =
 
 1. Visit 'Plugins > Add New'
-2. Search for 'REST Allow Origin'
-3. Activate REST Allow Origin from your Plugins page.
+2. Search for 'RESTfull Origin'
+3. Activate RESTfull Origin from your Plugins page.
 
 = From WordPress.org =
 
-1. Upload the folder `rest-allow-origin` to the `/wp-content/plugins/` directory.
+1. Upload the folder `restfull-origin` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Changelog ==
